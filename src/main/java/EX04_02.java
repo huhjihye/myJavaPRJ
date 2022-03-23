@@ -1,4 +1,4 @@
-public class Ex04_2 {
+public class EX04_02 {
     public static void main(String[] args) {
         int a = 2, b = 3, c = 4;
         int result1, mok, namugi;
